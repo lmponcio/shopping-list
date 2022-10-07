@@ -8,7 +8,7 @@
  *  Aditional features for user to activate/deactivate at will (in-cell dropdown list):
  *    Event listener when Shopping list tab is clicked function gets executed
  *    Event listener when Get Shopping list button is clicked copy shopping list to clipboard
- *  Save history in hidden cell (it would be cool in the future to be able to extract this info and know what we bought throughout a year)
+ *  Save history in hidden sheet (it would be cool in the future to be able to extract this info and know what we bought throughout a year)
 */
 
 function getShoppingList() {
