@@ -18,3 +18,6 @@ If any feedback in the way I organized the code I welcome the help - I am happy 
 
 In some occasions achieving an objective without installing any module is convenient.
 In this case the shopping list is retrieved from the producs.csv file using the built-in module called "csv".
+
+![](https://github.com/lmponcio/shopping-list/blob/main/images/python-csv.gif)
+
