@@ -22,3 +22,6 @@ In this case the shopping list is retrieved from the producs.csv file using the 
 
 ![](https://github.com/lmponcio/shopping-list/blob/main/_images/python-csv.gif)
 
+## Python and pandas module
+In this case the pandas external module is used for creating the script. The files used for input and output are spreadsheets.
+![](https://github.com/lmponcio/shopping-list/blob/main/_images/python-pandas.gif)
